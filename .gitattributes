@@ -1,0 +1,26 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Force LF for certain file types
+*.py     text eol=lf
+*.js     text eol=lf
+*.ts     text eol=lf
+*.json   text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.md     text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+
+# Binary files — do not modify
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.pdf    binary
+*.zip    binary
+*.tar    binary
+*.gz     binary
+
+# Node modules and build artifacts are ignored anyway via .gitignore
