@@ -4,7 +4,7 @@
 FloatChat is an AI-driven conversational platform that converts complex ARGO ocean float data into clear, queryable insights for researchers, policymakers, and students. I built this system to allow users to ask natural language questions and receive grounded, accurate responses backed by real oceanographic data, visualizations, and downloadable outputs.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a4f6dac-af9c-4a48-8bcb-a265eabc2f00" width="48%" />
+  <img src="https://github.com/user-attachments/assets/1c991d62-3415-453b-93fe-da1caeb5b7c6" width="48%" />
   <img src="https://github.com/user-attachments/assets/f40d3e87-09bd-4709-8ae9-dd193d44b6a2" width="48%" />
 </p>
 
