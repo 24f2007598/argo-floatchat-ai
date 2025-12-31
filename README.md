@@ -3,7 +3,7 @@
 
 FloatChat is an AI-driven conversational platform that converts complex ARGO ocean float data into clear, queryable insights for researchers, policymakers, and students. I built this system to allow users to ask natural language questions and receive grounded, accurate responses backed by real oceanographic data, visualizations, and downloadable outputs.
 
----
+
 
 ## What This Project Does
 
@@ -31,7 +31,7 @@ Ocean data is rich but inaccessible to non-experts. FloatChat bridges this gap b
 5. LLM-based response generation
 6. Visualization & reporting
 
----
+
 
 ## Dual Storage Architecture
 
@@ -43,7 +43,7 @@ Ocean data is rich but inaccessible to non-experts. FloatChat bridges this gap b
 
 This design ensures both **precision** and **flexibility** when answering user queries.
 
----
+
 
 ## Hybrid Retrieval Model
 
@@ -79,7 +79,7 @@ Every response is generated **only after fetching relevant data** from storage.
 - Dynamic charts and visual summaries
 - Downloadable datasets and results
 
----
+
 
 ## Outputs
 
@@ -87,7 +87,7 @@ Every response is generated **only after fetching relevant data** from storage.
 - Textual summaries (LLM-generated)
 - Downloadable filtered datasets
 
----
+
 
 ## Tech Stack
 
@@ -106,7 +106,7 @@ Every response is generated **only after fetching relevant data** from storage.
 - Parquet
 - Chroma / FAISS (Vector DB)
 
----
+
 
 ## Innovation & Uniqueness
 
@@ -115,7 +115,7 @@ Every response is generated **only after fetching relevant data** from storage.
 - Dual storage optimized for **both accuracy and scale**
 - Designed specifically for **scientific reliability**, not generic chat
 
----
+
 
 ## Use Cases
 
@@ -124,7 +124,4 @@ Every response is generated **only after fetching relevant data** from storage.
 - Education and student exploration
 - Data-driven storytelling for marine science
 
----
-
-## 📂 Repository Structure (Indicative)
 
